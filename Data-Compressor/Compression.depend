@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1337145261 source:c:\users\ankit\desktop\compression\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	"lzss.h"
+	"bwt.h"
+	"rle.h"
+	"fmfe.h"
+
+1337089576 c:\users\ankit\desktop\compression\lzss.h
+
+1337087706 c:\users\ankit\desktop\compression\bwt.h
+
+1337091038 c:\users\ankit\desktop\compression\rle.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fcntl.h>
+	<stdlib.h>
+
+1337144727 c:\users\ankit\desktop\compression\fmfe.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1490318455 source:/home/shikhar/Downloads/Data-Compression-project-master/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	"lzss.h"
+	"bwt.h"
+	"rle.h"
+	"fmfe.h"
+	<iostream>
+
+1490315995 /home/shikhar/Downloads/Data-Compression-project-master/lzss.h
+
+1490316073 /home/shikhar/Downloads/Data-Compression-project-master/bwt.h
+
+1490316016 /home/shikhar/Downloads/Data-Compression-project-master/rle.h
+	<stdio.h>
+	<string.h>
+	<fcntl.h>
+	<stdlib.h>
+
+1490315964 /home/shikhar/Downloads/Data-Compression-project-master/fmfe.h
+	<stdio.h>
+	<string.h>
+
+1493944258 source:/home/shikhar/Desktop/ALGO final/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	"lzss.h"
+	"bwt.h"
+	"rle.h"
+	<iostream>
+
+1490315995 /home/shikhar/Desktop/ALGO final/lzss.h
+
+1490316073 /home/shikhar/Desktop/ALGO final/bwt.h
+
+1490316016 /home/shikhar/Desktop/ALGO final/rle.h
+	<stdio.h>
+	<string.h>
+	<fcntl.h>
+	<stdlib.h>
+
+1490315964 /home/shikhar/Desktop/ALGO final/fmfe.h
+	<stdio.h>
+	<string.h>
+
